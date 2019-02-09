@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mi App</string>
+    <string name="title">Noche de lluvia</string>
+    <string name="date">09 FEB 2017</string>
+    <string name="message">Es una noche de lluvia. Es un buen momento para quedarse en casa.</string>
+    <string name="like">ME GUSTA</string>
+    <string name="comment">COMENTAR</string>
+</resources>
